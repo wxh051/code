@@ -7,5 +7,6 @@ public class string {
         Scanner scanner = new Scanner(System.in);
         System.out.println("hello");
         System.out.println("hello 2");
+        System.out.println("hello 3");
     }
 }
